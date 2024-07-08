@@ -1,0 +1,6 @@
+.container {
+  background-color: #e9eef6;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
