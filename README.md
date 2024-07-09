@@ -2,10 +2,20 @@
 
 ## General
 - This excercise includes both client and server existing project (the server exists either in `NestJS` or `Express`, so you can choose the the one you're more familiar with), **each project will have its own `README.md` that explains how to run it**
-- The assignement **deadline is 3 hours** from the time you were given it - **we will check only the code from the last commit that was pushed before the deadline**
+- The assignement **deadline is 4 hours** from the time you were given it - **we will check only the code from the last commit that was pushed before the deadline**
+
+## Before starting
+Please fork this project into your own project and work on it (clone it and push to it), if you're not familiar with fork / clone you can do one of those things:
+- follow https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html for fork and https://docs.gitlab.com/ee/user/project/repository/#clone-a-repository for clone
+- download the project as a zip - https://docs.gitlab.com/ee/user/project/repository/#download-the-code-in-a-repository
+
+## Before submitting
+You must run `npm run format` for each project you edited so the code - **please notice that**
+
+## How to submit
+Push your code (after `format`) to your forked repository to the `master` branch (if you're not familiar git or downloaded the project as a zio - you can upload the project to a drive and share it with us)
 
 ## Instructions
-- Before submitting - you must run `npm run format` for each project you edited so the code - **please notice that**
 - Even thought the template is ready - you can feel free to refactor anything in the existing code - you're responsbile to the code quality.
 - Your code quality is important as the amount of tasks you finish - the code should be convenient for other team members to add features / options in the future
 - If something might be understood with more than one meaning - do whatever ytou think is true and explain it in a comment
