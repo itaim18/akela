@@ -3,6 +3,8 @@
 ## General
 - This excercise includes both client and server existing project (the server exists either in `NestJS` or `Express`, so you can choose the the one you're more familiar with), **each project will have its own `README.md` that explains how to run it**
 - The assignement **deadline is 3 hours** from the time you were given it - **we will check only the code from the last commit that was pushed before the deadline**
+
+##Instructions
 - Before submitting - you must run `npm run format` for each project you edited so the code - **please notice that**
 - Even thought the template is ready - you can feel free to refactor anything in the existing code - you're responsbile to the code quality.
 - Your code quality is important as the amount of tasks you finish - the code should be convenient for other team members to add features / options in the future
