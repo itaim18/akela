@@ -61,3 +61,4 @@ What you need to do:
 4. Optional - let the user to edit an existing task.
 5. Optional - refactor the login to be more secured
 6. Optional - refactor the other server requests to be more secured
+7. Optional - bug - if the internet connection is slow in the login the user sees the screen like it freezes, fix this bug
