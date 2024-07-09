@@ -9,6 +9,29 @@ Please fork this project into your own project and work on it (clone it and push
 - follow https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html for fork and https://docs.gitlab.com/ee/user/project/repository/#clone-a-repository for clone
 - download the project as a zip - https://docs.gitlab.com/ee/user/project/repository/#download-the-code-in-a-repository
 
+**Note:** You might not be able to commit or push because of the following message: 
+```
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address
+```
+If it happens, please run in the cmd / Git bash the following commands:
+```
+git config --global user.email "<your_mail_in_gitlab>"
+git config --global user.name "<your name>"
+```
+After that, try again.
+
 ## Before submitting
 You must run `npm run format` for each project you edited so the code - **please notice that**
 
