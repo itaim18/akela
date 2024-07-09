@@ -46,6 +46,9 @@ Push your code (after `format`) to your forked repository to the `master` branch
 - Please notice what is "must" and what is "optional" 
 - The "optional" tasks are for you to prioritize, you should also know to explain what you prioritized one thing over the other
 - Please refer to the `README.md` inside each project that you edit
+**- We already put in the server side two user for you to use in the login:
+  - Username: elad, password: 1234
+  - Username: ariel, password: 5678**
 
 ## The assignement
 The assignement is a task management product (you can think of it as a small Trello).
