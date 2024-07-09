@@ -7,7 +7,7 @@ Run in this folder in the cmd / terminal `npm install` and make sure a `node_mod
 Enter this project folder in the cmd / terminal and run `npm run dev`. This project should also have hot-reloading.
 
 ## How to format the code
-Run in this folder in the cmd / terminal `num run format`.
+Run in this folder in the cmd / terminal `npm run format`.
 
 ## Instructions
 - The project has currently two modules - auth for the login (which has some basic implementation) and tasks which includes empty controller, service and dal
