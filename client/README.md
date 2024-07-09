@@ -1,5 +1,8 @@
 # Client side
 
+## Setup
+Run in this folder in the cmd / terminal `num install` and make sure a `node_modules` folder is created.
+
 ## How to run it
 Enter this project folder in the cmd / terminal and run `npm run dev`. This project should also have hot-reloading.
 
