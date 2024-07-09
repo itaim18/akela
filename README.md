@@ -10,6 +10,7 @@
 - You can submit the assignement even if you haven't completed everything
 - Please notice what is "must" and what is "optional" 
 - The "optional" tasks are for you to prioritize, you should also know to explain what you prioritized one thing over the other
+- Please refer to the `README.md` inside each project that you edit
 
 ## The assignement
 The assignement is a task management product (you can think of it as a small Trello).
