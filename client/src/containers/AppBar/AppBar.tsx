@@ -11,13 +11,20 @@ const AppBar: FC = () => {
   useEffect(() => {
     if (!isLoggedIn) navigate('/login');
   }, [isLoggedIn]);
-
   return (
     <div className={styles.container}>
       <p>Hello {username}</p>
-      <Button variant="secondary" onClick={logout}>
-        Logout
-      </Button>
+      <div>
+        <Button variant="secondary" onClick={() => navigate('/')}>
+          Dashboard
+        </Button>
+        <Button variant="secondary" onClick={() => navigate('/create')}>
+          create task
+        </Button>
+        <Button variant="secondary" onClick={logout}>
+          Logout
+        </Button>
+      </div>
     </div>
   );
 };
